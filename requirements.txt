@@ -2,10 +2,12 @@ numpy
 scipy
 scikit-learn
 pandas
+pillow
 h5py
 numba
 cython
 dask
+distributed
 multiprocess
 matplotlib
 seaborn
@@ -20,3 +22,4 @@ black
 pylint
 isort
 pre-commit
+pytest
